@@ -1,0 +1,125 @@
+
+@font-face {
+  font-family: Font;
+  src: url(Font.ttf);
+}
+
+body{
+  background-color: #D6C499;
+}
+
+#Button1
+{
+  height: 100px;
+  width: 100px;
+  border: 10px ridge #ABABAB;
+    font-size: 50px;
+      color: grey;
+      font-family: Font;
+}
+
+#Button2
+{
+  height: 100px;
+  width: 100px;
+border: 10px ridge #ABABAB;
+font-size: 50px;
+  color: grey;
+  font-family: Font;
+}
+
+#Button3
+{
+  height: 100px;
+  width: 100px;
+border: 10px ridge #ABABAB;
+font-size: 50px;
+  color: grey;
+  font-family: Font;
+}
+
+#Button4
+{
+  height: 100px;
+  width: 100px;
+  border: 10px ridge #ABABAB;
+  font-size: 50px;
+    color: grey;
+    font-family: Font;
+}
+
+#Button5
+{
+  height: 100px;
+  width: 100px;
+  border: 10px ridge #ABABAB;
+  font-size: 50px;
+    color: grey;
+    font-family: Font;
+}
+
+#Button6
+{
+  height: 100px;
+  width: 100px;
+    border: 10px ridge #ABABAB;
+    font-size: 50px;
+      color: grey;
+      font-family: Font;
+}
+
+#Button7
+{
+  height: 100px;
+  width: 100px;
+border: 10px ridge #ABABAB;
+font-size: 50px;
+  color: grey;
+  font-family: Font;
+}
+
+#Button8
+{
+  height: 100px;
+  width: 100px;
+border: 10px ridge #ABABAB;
+font-size: 50px;
+  color: grey;
+  font-family: Font;
+
+}
+
+#Button9
+{
+  height: 100px;
+  width: 100px;
+  border: 10px ridge #ABABAB;
+  font-size: 50px;
+    color: grey;
+    font-family: Font;
+}
+
+#Button10
+{
+  height: 100px;
+  width: 212px;
+  border: 10px ridge #ABABAB;
+  font-size: 50px;
+    color: grey;
+    font-family: Font;
+}
+
+#title
+{
+   border-bottom: 10px ridge #ABABAB;
+   font-size: 75px;
+     color: grey;
+     font-family: Font;
+}
+
+#output
+{
+  font-size: 50px;
+    color: grey;
+    font-family: Font;
+}
